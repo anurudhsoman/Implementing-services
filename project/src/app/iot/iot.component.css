@@ -1,0 +1,40 @@
+#box1 {
+    width: 450px;
+    height: 600px;
+    color: rgb(245, 136, 3);
+    background-color: rgb(246, 252, 252);
+    border: 4px solid rgb(248, 246, 244);
+    border-radius: 25px;
+    margin-top: 50px;
+    margin-left: 45px;
+    background-repeat: no-repeat;
+    background-color: rgb(255, 255, 255, 0.3);
+
+}
+
+.cbutton{
+    width: 420px;
+    height: 35px;
+    background-color: rgb(245, 239, 239,0.3);
+    border: 0px ;
+    border-radius: 20px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#koreimage {
+    float: left;
+}
+
+#circleimage {
+    width: 250px;
+    height: 260px;
+    border: 2px;
+    border-radius: 50% 50%;
+    position: relative;
+    margin-left: 45px;
+}
+
+#text {
+    color: black;
+}

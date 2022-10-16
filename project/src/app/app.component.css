@@ -1,0 +1,8 @@
+.main{
+    display: flex;
+    flex-direction: row;
+     background-image: url("../assets/innovative_images/joshua-sortino-xZqr8WtYEJ0-unsplash.jpg");
+     background-size: cover;
+     height: 750px;
+
+}
