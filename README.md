@@ -5,7 +5,8 @@
 ---------------------------------------------------------------------------------------------
  
  
-This project summarize the implementation and working of authentication, Routing and working (get,post) methods
+This project summarize the implementation and working of services.
+
 
 # Project
 
